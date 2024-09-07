@@ -1,0 +1,109 @@
+reference library
+(this is going to be hard going, possibly forever!)
+
+
+Think from the perspective of "The Definition of ... is ..."
+
+any number n means exactly that number n 
+unknown/uncertain _n means approximately that number
+_10^3 means approximately 1000 etc.
+
+
+** TABLE part (id, it): (for example, part(it): proton)
+
+* particles
+electron (-1e, 1/2 spin)
+
+proton
+up-quark (+2/3e) (!0 discreet one of three colour charge)
+down-quark (-1/3e) (!0 discreet one of three colour charge)
+
+strange-quark (short life / only produced in high energy collisions) (-1/3e)
+charm-quark (ditto) (+2/3e)
+top-quark (ditto) (+2/3e)
+bottom-quark (ditto) (-1/3e)
+
+[each quark has anti-quark with opposite properties, combined they make meson, tetraquarks like a double meson and hybrid quarks q-q+1+g]
+[neutron composed of 2 down-quark 1 up-quark] plus pentaquarks (three quarks plus q-q pair, hybrid baryons 3q + 1+g)
+
+photon (0 mass, speed c, 0 charge)
+
+gluon (_0 mass, !0 color-charge, spin 1) (_n > glueballs, rare, hybrids - mix q-qg +) carry color plus anticolor 
+W+boson (>0 mass)
+W-boson (>0 mass)
+Z-boson (>0 mass)
+
+
+
+
+* forces
+gravitational (infinte range)
+electromagnetic (infinite range)
+strong-nuclear (short range (within atom?)) => colour confinement? quantum chromodynamics QCD. "Forms a narrow flux tube (or string) between color charges" Strong force between particles remains constant regardless of separation??? strong interaction energy is ~99% of mass (individual quarks only ~1%)
+weak-nuclear (short range (within atom?))
+
+collision (for example, high energy can be an "ingredient" 
+of event but i think we have to binary distinguish contact or none)
+
+
+* concepts
+
+speed in a vacuum (measured in m/s)
+[range from 0 to c (299,792,458)]
+
+mass
+
+energy (measured in joule J or electronvolt eV)
+[range from ]
+
+electromagnetic wavelength (measured in nm)
+[range from plank's constant to _1,000,000]
+
+electromagnetic frequency (inverse of wavelength)
+
+electric-charge 
+color-charge (red, green, blue and anti ... - should this be in gluon or attribute assigned to gluon??)
+
+spin
+
+temperature/heat (maybe no place for it here, 
+being derivative of energy?)
+
+half-life
+
+
+* measurements 
+(is this different from concepts? 
+i think yes because it is only one self sufficient measurements
+whereas concept combines at least two - speed is m/s, wavelength is energy)
+
+length/distance
+
+time
+
+temperature
+[range - to 2 terakelvin (Hagedorn) for gluons to ?]
+(mapping temperature to energy 130-140MeV)
+
+
+** TABLE link relation(to)
+
+component of
+necessary: =
+usually: ~
+optionally/potentialy
+
+is an attribute of
+
+
+** reserved symbols and letters
+
+numbers (except in combination with letters and symbols)
+
+m = metre
+s = second
+c = speed of light
+
+
+
+
